@@ -31,7 +31,7 @@ While collaboration with peers is encouraged, remember to independently develop 
 
 For assignment inquiries, reach out to:
 
-- Your Instructor: [instructor@example.com](mailto:instructor@example.com)
+- Your Instructor: [instructor@example.com](mailto:whoakashmukherjee@gmail.com)
 - Classmates: Connect on designated communication channels
 
 Embark on this thrilling journey through data structures and algorithms! Happy coding! 🌟
